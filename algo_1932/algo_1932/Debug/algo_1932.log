@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\ksw89\documents\visual studio 2015\projects\algo_1932\algo_1932\main.cpp(43): warning C4101: 'jj' :참조되지 않은 지역 변수입니다.
+c:\users\ksw89\documents\visual studio 2015\projects\algo_1932\algo_1932\main.cpp(43): warning C4101: 'ii' :참조되지 않은 지역 변수입니다.
+  algo_1932.vcxproj -> c:\users\ksw89\documents\visual studio 2015\Projects\algo_1932\Debug\algo_1932.exe
+  algo_1932.vcxproj -> c:\users\ksw89\documents\visual studio 2015\Projects\algo_1932\Debug\algo_1932.pdb (Full PDB)
